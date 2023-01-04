@@ -1,4 +1,4 @@
-#COnversor de moedas 
+Conversor de moedas 
 Conversor desenvolvido para fins de apredizagem, foi desenvolvido com html, css e javascript
 
 ## 🚀 Começando
