@@ -18,7 +18,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 ```
 Até finalizar
 
-
+Link para teste: conversor-de-moedas323.netlify.app
 
 ## 🛠️ Construído com
 
